@@ -1,8 +1,8 @@
-# JS-Weekly-Challenges
-In-person code challenges for the May 2016 session of Full-Stack JavaScript.
+Week 2 Coding Challenge
 
-##Week 3: May 16 - 19
-Iterating through an array and the .splice() method, jQuery element targeting and attribute change
+Try and do all of the following:
 
-##Week 4: May 23 - 26
-DOM Manipulation with raw JavaScript (no external libraries!)
+Prompt the user for input and store that into a variable
+Pass that value into a function
+If the user entered 'Hello' into the prompt, alert the user with 'Hello World!'
+If they entered anything else, alert with a different message
